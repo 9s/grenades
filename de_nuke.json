@@ -1,0 +1,895 @@
+{
+    "lineups": [
+        {
+            "spot": "red cross smoke",
+            "origin": {
+                "x": -373.026611,
+                "y": -1742.372437,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -4.250418,
+                "y": -55.209450,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Walking L Throw"
+        },
+        {
+            "spot": "ct blue box smoke",
+            "origin": {
+                "x": -8.849304,
+                "y": -2006.301514,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -28.212791,
+                "y": 21.297655,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "L Throw"
+        },
+        {
+            "spot": "a site behind silos molotov !BREAK WINDOW!",
+            "origin": {
+                "x": 0.756458,
+                "y": -769.648438,
+                "z": -95.968750
+            },
+            "view": {
+                "x": 4.246324,
+                "y": 10.820182,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "a backsite flash !BREAK WINDOW!",
+            "origin": {
+                "x": 0.756458,
+                "y": -769.648438,
+                "z": -95.968750
+            },
+            "view": {
+                "x": 4.246324,
+                "y": 10.820182,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "a site hut molotov !BREAK WINDOW!",
+            "origin": {
+                "x": -20.315796,
+                "y": -825.494019,
+                "z": -21.968750
+            },
+            "view": {
+                "x": -7.034433,
+                "y": -40.810066,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "Walking L Throw"
+        },
+        {
+            "spot": "outside flash !BREAK WINDOW!",
+            "origin": {
+                "x": 850.456299,
+                "y": -686.598999,
+                "z": -399.968262
+            },
+            "view": {
+                "x": -21.879942,
+                "y": -105.427414,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "outside red box flash",
+            "origin": {
+                "x": -310.754272,
+                "y": -1836.657227,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -8.574417,
+                "y": -21.395155,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "Walking L Throw"
+        },
+        {
+            "spot": "1",
+            "origin": {
+                "x": 160.306885,
+                "y": -1119.968262,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -3.831245,
+                "y": 29.045876,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "L Throw"
+        },
+        {
+            "spot": "2",
+            "origin": {
+                "x": 160.306885,
+                "y": -1119.968262,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -5.309586,
+                "y": 27.856386,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "Walking L Throw"
+        },
+        {
+            "spot": "outside wall smoke 1",
+            "origin": {
+                "x": -1570.199951,
+                "y": -1073.550903,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -22.853519,
+                "y": -17.747629,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "outside wall smoke 2",
+            "origin": {
+                "x": -1570.199951,
+                "y": -1073.550903,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -25.009510,
+                "y": -19.780420,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Jumpthrow W"
+        },
+        {
+            "spot": "a site hut molotov",
+            "origin": {
+                "x": -475.748901,
+                "y": -1148.145386,
+                "z": -161.473022
+            },
+            "view": {
+                "x": 3.096039,
+                "y": 0.568213,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "Walking Jumpthrow"
+        },
+        {
+            "spot": "main waterfall smoke 1",
+            "origin": {
+                "x": -1637.440063,
+                "y": -1273.968750,
+                "z": -407.968750
+            },
+            "view": {
+                "x": -30.042368,
+                "y": -8.281134,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "garage smoke",
+            "origin": {
+                "x": -915.721069,
+                "y": -1142.968750,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -16.343951,
+                "y": -17.274546,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "locker smoke",
+            "origin": {
+                "x": -940.031250,
+                "y": -864.031250,
+                "z": -368.968750
+            },
+            "view": {
+                "x": -36.540676,
+                "y": 1.471260,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "main waterfall smoke 2",
+            "origin": {
+                "x": 29.040253,
+                "y": -2006.687500,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -16.890314,
+                "y": 21.676538,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "L Throw"
+        },
+        {
+            "spot": "b site heaven smoke 2",
+            "origin": {
+                "x": -511.358887,
+                "y": -1149.579102,
+                "z": -154.968750
+            },
+            "view": {
+                "x": -16.828709,
+                "y": 7.333788,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Walking Jumpthrow"
+        },
+        {
+            "spot": "a door lurker smoke !BREAK WINDOWS!",
+            "origin": {
+                "x": -891.968750,
+                "y": -927.031250,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -14.303168,
+                "y": -9.421721,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "upper tetris smoke !BREAK WINDOWS!",
+            "origin": {
+                "x": -1180.031738,
+                "y": -1160.365479,
+                "z": -362.530029
+            },
+            "view": {
+                "x": -16.459187,
+                "y": -0.562410,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "b site lower smoke !DOOR OPEN!",
+            "origin": {
+                "x": 34.031296,
+                "y": -1671.971924,
+                "z": -767.968750
+            },
+            "view": {
+                "x": 7.872740,
+                "y": 51.509361,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "L Throw"
+        },
+        {
+            "spot": "b site flash 1 !DOOR OPEN QUICKLY!",
+            "origin": {
+                "x": 287.968750,
+                "y": -1398.968628,
+                "z": -775.968750
+            },
+            "view": {
+                "x": -4.385645,
+                "y": 170.160263,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "L Throw"
+        },
+        {
+            "spot": "ct red cross smoke",
+            "origin": {
+                "x": 1328.067627,
+                "y": -1329.565674,
+                "z": -415.968750
+            },
+            "view": {
+                "x": 1.528018,
+                "y": -134.370224,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Walking L Throw"
+        },
+        {
+            "spot": "trophy smoke",
+            "origin": {
+                "x": 775.970459,
+                "y": 93.251099,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -6.726402,
+                "y": 174.748413,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Walking L Throw"
+        },
+        {
+            "spot": "deep door smoke !IF BROKEN!",
+            "origin": {
+                "x": 1011.932434,
+                "y": -455.954102,
+                "z": -127.968750
+            },
+            "view": {
+                "x": -8.427238,
+                "y": -120.685547,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "L Throw"
+        },
+        {
+            "spot": "door smoke",
+            "origin": {
+                "x": 911.966248,
+                "y": -334.031372,
+                "z": -410.819458
+            },
+            "view": {
+                "x": 2.196810,
+                "y": -114.525124,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "a site retake door smoke",
+            "origin": {
+                "x": 1295.968750,
+                "y": -2095.968750,
+                "z": -407.968750
+            },
+            "view": {
+                "x": -3.769584,
+                "y": 136.627625,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "L Throw"
+        },
+        {
+            "spot": "hut smoke",
+            "origin": {
+                "x": 1259.968750,
+                "y": -316.031372,
+                "z": -127.968750
+            },
+            "view": {
+                "x": -3.437599,
+                "y": -150.570938,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "L Throw"
+        },
+        {
+            "spot": "heaven lurker smoke",
+            "origin": {
+                "x": 1121.353149,
+                "y": -471.972046,
+                "z": -123.968750
+            },
+            "view": {
+                "x": 6.702411,
+                "y": 120.356506,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "L Throw"
+        },
+        {
+            "spot": "outside ac heaven molotov",
+            "origin": {
+                "x": -20.454407,
+                "y": -825.304138,
+                "z": -21.968750
+            },
+            "view": {
+                "x": 8.920003,
+                "y": 13.234442,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "creditcard molotov",
+            "origin": {
+                "x": 176.968628,
+                "y": -1940.030273,
+                "z": -415.968750
+            },
+            "view": {
+                "x": 4.792849,
+                "y": 15.585996,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "secret molotov",
+            "origin": {
+                "x": 176.298080,
+                "y": -2037.416992,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -16.890368,
+                "y": -16.929314,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "L Throw"
+        },
+        {
+            "spot": "a site flash 1",
+            "origin": {
+                "x": 204.809357,
+                "y": -1250.231567,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -8.512772,
+                "y": -12.915589,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "L Throw"
+        },
+        {
+            "spot": "a site heaven smoke 1",
+            "origin": {
+                "x": -146.573975,
+                "y": -1274.147827,
+                "z": -189.968750
+            },
+            "view": {
+                "x": 5.090395,
+                "y": 34.896000,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Duck Jumpthrow"
+        },
+        {
+            "spot": "ramp flash",
+            "origin": {
+                "x": 95.685783,
+                "y": -292.032593,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -4.617583,
+                "y": 60.538406,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "L Throw"
+        },
+        {
+            "spot": "b site dark 1 molotov",
+            "origin": {
+                "x": 749.968445,
+                "y": 122.089668,
+                "z": -630.551147
+            },
+            "view": {
+                "x": 2.788801,
+                "y": -63.893570,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "L Throw"
+        },
+        {
+            "spot": "b site double door molotov 1",
+            "origin": {
+                "x": 804.596008,
+                "y": -256.957458,
+                "z": -639.968750
+            },
+            "view": {
+                "x": -1.983158,
+                "y": -41.286442,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "Walking L Throw"
+        },
+        {
+            "spot": "b site double door molotov 2",
+            "origin": {
+                "x": 1272.585327,
+                "y": -1990.700317,
+                "z": -639.968750
+            },
+            "view": {
+                "x": -4.508781,
+                "y": 113.154274,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "Walking L Throw"
+        },
+        {
+            "spot": "b site flash 2",
+            "origin": {
+                "x": 1183.102905,
+                "y": -480.875854,
+                "z": -639.968750
+            },
+            "view": {
+                "x": 7.318396,
+                "y": -179.938156,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "L Throw"
+        },
+        {
+            "spot": "b site dark 2 molotov",
+            "origin": {
+                "x": 1206.245850,
+                "y": -457.395569,
+                "z": -639.968750
+            },
+            "view": {
+                "x": 11.060047,
+                "y": -179.681213,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "L Throw"
+        },
+        {
+            "spot": "ct anti rush molotov",
+            "origin": {
+                "x": 1791.972168,
+                "y": -947.804810,
+                "z": -351.968750
+            },
+            "view": {
+                "x": -18.368748,
+                "y": -141.725174,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "Walking L Throw"
+        },
+        {
+            "spot": "ubreakable smoke",
+            "origin": {
+                "x": -940.031250,
+                "y": -1263.971924,
+                "z": -340.985474
+            },
+            "view": {
+                "x": -49.201595,
+                "y": -3.371518,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "behind main molotov",
+            "origin": {
+                "x": 1566.494141,
+                "y": -1583.968750,
+                "z": -407.968750
+            },
+            "view": {
+                "x": 5.792812,
+                "y": -177.637878,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "Jumpthrow W"
+        },
+        {
+            "spot": "stop outside wall",
+            "origin": {
+                "x": 1164.555664,
+                "y": -1296.058716,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -8.944186,
+                "y": -87.085114,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "L Throw"
+        },
+        {
+            "spot": "a site door self flash",
+            "origin": {
+                "x": 947.968689,
+                "y": -1016.155884,
+                "z": -415.968750
+            },
+            "view": {
+                "x": 9.412793,
+                "y": -159.947372,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "LR Throw"
+        },
+        {
+            "spot": "hut molotov !NADE DOOR IF POSSIBLE!",
+            "origin": {
+                "x": 235.968475,
+                "y": -1200.031250,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -29.196968,
+                "y": -57.783455,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "Run L Throw"
+        },
+        {
+            "spot": "a site blue box molotov",
+            "origin": {
+                "x": 1259.968628,
+                "y": -324.876099,
+                "z": -127.968750
+            },
+            "view": {
+                "x": 5.100755,
+                "y": -177.428207,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "L Throw"
+        },
+        {
+            "spot": "a site under heaven molotov",
+            "origin": {
+                "x": 1259.968628,
+                "y": -324.876099,
+                "z": -127.968750
+            },
+            "view": {
+                "x": 12.746356,
+                "y": -178.845001,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "L Throw"
+        },
+        {
+            "spot": "a site flash 3",
+            "origin": {
+                "x": 1259.968750,
+                "y": -316.031372,
+                "z": -127.968750
+            },
+            "view": {
+                "x": -27.300816,
+                "y": -16.467045,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "L Throw"
+        },
+        {
+            "spot": "secret smoke",
+            "origin": {
+                "x": -915.721069,
+                "y": -1142.968750,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -11.284555,
+                "y": -29.700644,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "a side silos smoke !BREAK WINDOW!",
+            "origin": {
+                "x": -1180.031616,
+                "y": -1223.964478,
+                "z": -319.968750
+            },
+            "view": {
+                "x": -13.364454,
+                "y": 21.612213,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "a site flash 2",
+            "origin": {
+                "x": 238.874893,
+                "y": -1312.397461,
+                "z": -415.968750
+            },
+            "view": {
+                "x": -1.591194,
+                "y": 20.873194,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "outside flash 1",
+            "origin": {
+                "x": 1347.968750,
+                "y": -547.968689,
+                "z": -127.968750
+            },
+            "view": {
+                "x": 3.068078,
+                "y": -111.063766,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "Jumpthrow"
+        },
+        {
+            "spot": "main waterfall smoke",
+            "origin": {
+                "x": -117.095276,
+                "y": -1593.879883,
+                "z": -40.896362
+            },
+            "view": {
+                "x": -3.540793,
+                "y": -2.873389,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "LR Throw"
+        },
+        {
+            "spot": "main flash",
+            "origin": {
+                "x": -117.095276,
+                "y": -1593.879883,
+                "z": -40.896362
+            },
+            "view": {
+                "x": 6.092048,
+                "y": -3.981987,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "L Throw"
+        },
+        {
+            "spot": "ramp peek flash",
+            "origin": {
+                "x": 144.269775,
+                "y": -593.775146,
+                "z": -415.968750
+            },
+            "view": {
+                "x": 2.001579,
+                "y": 78.410339,
+                "z": 0
+            },
+            "nade": 0,
+            "type": "Duckwalk L Throw"
+        },
+        {
+            "spot": "door molotov",
+            "origin": {
+                "x": 1060.025757,
+                "y": -316.031799,
+                "z": -127.968750
+            },
+            "view": {
+                "x": 3.560823,
+                "y": -120.064186,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "Walking L Throw"
+        },
+        {
+            "spot": "ramp ct side smoke",
+            "origin": {
+                "x": 251.968018,
+                "y": -463.702759,
+                "z": -415
+            },
+            "view": {
+                "x": -1.627657,
+                "y": 106.67,
+                "z": 0
+            },
+            "nade": 2,
+            "type": "Walking L Throw"
+        },
+        {
+            "spot": "top main molotov",
+            "origin": {
+                "x": 1604.459229,
+                "y": -1520.857178,
+                "z": -416
+            },
+            "view": {
+                "x": -18.771713,
+                "y": -175.043808,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "L Throw"
+        },
+        {
+            "spot": "a backsite molotov",
+            "origin": {
+                "x": 1259.968750,
+                "y": -471.968750,
+                "z": -128
+            },
+            "view": {
+                "x": 2.208789,
+                "y": 146.813156,
+                "z": 0
+            },
+            "nade": 3,
+            "type": "L Throw"
+        }
+    ]
+}
+
+
+
+
+
+

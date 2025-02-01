@@ -15,11 +15,11 @@
             "nade": 2,
             "type": "L and R jumpthrow"
         },
-		{
+        {
             "spot": "B Doors",
             "origin": {
                 "x": 2860.041504,
-                "y": -2543.718750,
+                "y": -2543.71875,
                 "z": -129.378738
             },
             "view": {
@@ -30,11 +30,11 @@
             "nade": 2,
             "type": "Jumpthrow"
         },
-		{
+        {
             "spot": "Window",
             "origin": {
                 "x": 2860.041504,
-                "y": -2543.718750,
+                "y": -2543.71875,
                 "z": -129.378738
             },
             "view": {
@@ -45,11 +45,11 @@
             "nade": 2,
             "type": "W Jumpthrow"
         },
-		{
+        {
             "spot": "A Conn",
             "origin": {
                 "x": 2860.041504,
-                "y": -2543.718750,
+                "y": -2543.71875,
                 "z": -129.378738
             },
             "view": {
@@ -60,7 +60,7 @@
             "nade": 2,
             "type": "Jumpthrow"
         },
-		{
+        {
             "spot": "Z",
             "origin": {
                 "x": 2928.966309,
@@ -75,7 +75,7 @@
             "nade": 2,
             "type": "Throw"
         },
-		{
+        {
             "spot": "A Doors",
             "origin": {
                 "x": 3815.806152,
@@ -90,7 +90,7 @@
             "nade": 2,
             "type": "Jumpthrow"
         },
-		{
+        {
             "spot": "Piano",
             "origin": {
                 "x": 3815.806152,
@@ -105,7 +105,7 @@
             "nade": 2,
             "type": "Crouch Jumpthrow"
         },
-		{
+        {
             "spot": "CT",
             "origin": {
                 "x": 3815.806152,
@@ -120,11 +120,11 @@
             "nade": 2,
             "type": "Jumpthrow"
         },
-		{
+        {
             "spot": "CT",
             "origin": {
                 "x": 3307.344238,
-                "y": -1490.593750,
+                "y": -1490.59375,
                 "z": 18.121254
             },
             "view": {
@@ -135,7 +135,7 @@
             "nade": 2,
             "type": "Jumpthrow"
         },
-		{
+        {
             "spot": "A Doors",
             "origin": {
                 "x": 2787.171143,
@@ -150,7 +150,7 @@
             "nade": 2,
             "type": "Jumpthrow"
         },
-		{
+        {
             "spot": "Top Mid",
             "origin": {
                 "x": 2534.967773,
@@ -158,18 +158,18 @@
                 "z": -23.128738
             },
             "view": {
-                "x": -25.738680,
-                "y": -93.398560,
+                "x": -25.73868,
+                "y": -93.39856,
                 "z": 0
             },
             "nade": 2,
             "type": "Jumpthrow"
         },
-		{
+        {
             "spot": "Balcony",
             "origin": {
                 "x": 1189.601196,
-                "y": -1492.183350,
+                "y": -1492.18335,
                 "z": -130.523651
             },
             "view": {
@@ -180,11 +180,11 @@
             "nade": 3,
             "type": "L and R jumpthrow"
         },
-		{
+        {
             "spot": "Underpass Wine",
             "origin": {
                 "x": 3266.153076,
-                "y": 250.726120,
+                "y": 250.72612,
                 "z": 9.871246
             },
             "view": {
@@ -195,7 +195,7 @@
             "nade": 3,
             "type": "Run and L throw"
         },
-		{
+        {
             "spot": "Underpass Wine Pop",
             "origin": {
                 "x": 3530.319336,
@@ -210,7 +210,7 @@
             "nade": 0,
             "type": "R jumpthrow"
         },
-		{
+        {
             "spot": "Window",
             "origin": {
                 "x": 2809.971924,
@@ -225,7 +225,7 @@
             "nade": 2,
             "type": "W jumpthrow"
         },
-		{
+        {
             "spot": "A Con",
             "origin": {
                 "x": 2809.971924,
@@ -249,7 +249,7 @@
             },
             "view": {
                 "x": -20.346594,
-                "y": 108.128670,
+                "y": 108.12867,
                 "z": 0
             },
             "nade": 2,
